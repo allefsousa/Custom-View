@@ -1,7 +1,8 @@
-package com.developer.allef.boilerplateapp
+package com.developer.allef.boilerplateapp.customfancontroller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.developer.allef.boilerplateapp.R
 
 class MainActivity : AppCompatActivity() {
 
